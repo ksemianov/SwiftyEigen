@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/ks/Documents/Workdir/SwiftyEigen-SwiftPM/SwiftyEigen/Example/Example/Cell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ks/Documents/Workdir/SwiftyEigen-SwiftPM/SwiftyEigen/Example/Example/UIKit+extensions.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
